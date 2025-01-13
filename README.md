@@ -1,5 +1,5 @@
 
-# **Data Retrieval App**
+# **DataDive**
 A simple web application that demonstrates how to save and retrieve text using the browser's local storage. This project is to understand the concept of client-side storage and JavaScript event handling.
 
 ---
@@ -21,11 +21,11 @@ A simple web application that demonstrates how to save and retrieve text using t
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/data-retrieval-app.git
+   git clone https://github.com/dishadewangan/DataDive.git
    ```
 2. Open the project directory:
    ```bash
-   cd data-retrieval-app
+   cd DataDive
    ```
 3. Open `index.html` in your browser.
 
@@ -38,7 +38,7 @@ A simple web application that demonstrates how to save and retrieve text using t
 
 ## **Project Structure**
 ```
-data-retrieval-app/
+DataDive/
 │
 ├── index.html   # Main HTML file
 ├── style.css    # Styling for the app
